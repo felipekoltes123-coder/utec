@@ -1,0 +1,10 @@
+h1 {color: tomato; text-align: center;text-decoration: underline; font-size: 40px;}
+.azul {color: blue;}
+.violeta {color: violet}
+body {background-color: #B7EDED}
+img {
+  width: 700px; /* El alto se ajusta automáticamente */
+  height: auto;
+}
+p {font-size: 20px;}
+li {font-size: 20px;}
