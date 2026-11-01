@@ -2,9 +2,18 @@ h1 {color: tomato; text-align: center;text-decoration: underline; font-size: 40p
 .azul {color: blue;}
 .violeta {color: violet}
 body {background-color: #B7EDED}
-img {
-  width: 700px; /* El alto se ajusta automáticamente */
-  height: auto;
-}
+img {width: 700px; /* El alto se ajusta automáticamente */
+  height: auto;}
 p {font-size: 20px;}
 li {font-size: 20px;}
+h1:hover {color: blue; background-color: yellow}
+.violeta:hover {background-color: yellow;color: tomato}
+.violeta {display: flex; justify-content: center;}
+  .redirección1:hover {color:black; background-color: white}
+  .redirección2:hover {color:black; background-color: white}
+  .redirección3:hover {color:black; background-color: white}
+  .redirección4:hover {color:black; background-color: white}
+  header {display: flex;justify-content: center; align-items: center; justify-content: space-around; flex-wrap: wrap;}
+.redes {width: 60px; height: 60px; border-radius: 40%}
+.logo {width: 130px; height: 120px;border-radius: 100%}
+footer {display: flex; justify-content: center; align-items: center; flex-wrap: wrap; justify-content: space-between; flex-wrap: wrap;}
